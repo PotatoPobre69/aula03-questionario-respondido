@@ -1,5 +1,6 @@
 /// Import do exercício 01 (exemplo):
 import 'ex01.dart';
+import 'ex02.dart';
 
 /// Use esse arquivo como base para realizar a atividade.
 /// Ao entregar, coloque seu e-mail no campo abaixo.
@@ -25,6 +26,7 @@ void main() {
   /// Exercício 02:
   print("\n----------\n Exercício 02:\n");
 
+  imprimirDecrescente10a1();
   ///
   /// Exercício 03:
   print("\n----------\n Exercício 03:\n");
