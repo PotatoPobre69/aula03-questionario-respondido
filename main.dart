@@ -3,6 +3,7 @@ import 'ex01.dart';
 import 'ex02.dart';
 import 'ex03.dart';
 import 'ex04.dart';
+import 'ex05.dart';
 
 /// Use esse arquivo como base para realizar a atividade.
 /// Ao entregar, coloque seu e-mail no campo abaixo.
@@ -45,6 +46,8 @@ void main() {
   /// Exercício 05:
   print("\n----------\n Exercício 05:\n");
 
+  tabuada();
+  
   ///
   /// Exercício 06:
   print("\n----------\n Exercício 06:\n");
