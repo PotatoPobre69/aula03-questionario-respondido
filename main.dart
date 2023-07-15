@@ -5,6 +5,7 @@ import 'ex03.dart';
 import 'ex04.dart';
 import 'ex05.dart';
 import 'ex06.dart';
+import 'ex07.dart';
 
 /// Use esse arquivo como base para realizar a atividade.
 /// Ao entregar, coloque seu e-mail no campo abaixo.
@@ -59,6 +60,8 @@ void main() {
   /// Exercício 07:
   print("\n----------\n Exercício 07:\n");
 
+  ImprimirFibonacci();
+  
   ///
   /// Exercício 08:
   print("\n----------\n Exercício 08:\n");
