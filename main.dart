@@ -32,7 +32,7 @@ void main() {
   /// Exercício 03:
   print("\n----------\n Exercício 03:\n");
 
-  verificarNumeroPrimo ();
+  verificarNumeroPrimo();
   
   ///
   /// Exercício 04:
