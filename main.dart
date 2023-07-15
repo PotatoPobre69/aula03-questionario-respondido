@@ -33,6 +33,7 @@ void main() {
   print("\n----------\n Exercício 03:\n");
 
   verificarNumeroPrimo ();
+  
   ///
   /// Exercício 04:
   print("\n----------\n Exercício 04:\n");
