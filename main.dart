@@ -60,7 +60,7 @@ void main() {
   /// Exercício 07:
   print("\n----------\n Exercício 07:\n");
 
-  ImprimirFibonacci();
+  imprimirFibonacci();
   
   ///
   /// Exercício 08:
