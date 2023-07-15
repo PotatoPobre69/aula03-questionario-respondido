@@ -11,7 +11,7 @@ int fibonacci(int n) {
   } 
 }
 
-void ImprimirFibonacci() {
+void imprimirFibonacci() {
   print('Defina a quantidade de integrantes da sequência de fibonacci que serão mostrados:');
   int n = int.parse(stdin.readLineSync()!);
   List<dynamic> lista = [];
