@@ -4,6 +4,7 @@ import 'ex02.dart';
 import 'ex03.dart';
 import 'ex04.dart';
 import 'ex05.dart';
+import 'ex06.dart';
 
 /// Use esse arquivo como base para realizar a atividade.
 /// Ao entregar, coloque seu e-mail no campo abaixo.
@@ -52,6 +53,8 @@ void main() {
   /// Exercício 06:
   print("\n----------\n Exercício 06:\n");
 
+  listadeNumeros();
+  
   ///
   /// Exercício 07:
   print("\n----------\n Exercício 07:\n");
