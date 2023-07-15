@@ -4,7 +4,7 @@
 
 import 'dart:io';
 
-verificarNumeroPrimo (){
+void verificarNumeroPrimo() {
     print('Adicione um número:');
     int numero = int.parse(stdin.readLineSync()!);
   if (numero <= 1){
